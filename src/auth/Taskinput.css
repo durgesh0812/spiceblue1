@@ -1,0 +1,32 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+ .taskinput1{
+     /* height: 40px;
+    width: 190px; 
+    border-radius: 12px;
+    background-color: white;*/
+  /*display: flex;*/
+    justify-content: center;
+    align-items: center; 
+   
+    background-color: indigo;
+    /* height: 100vh;
+   */
+
+}  
+ .taskinput1>input{
+    /* background: none;
+    border:none;
+    margin-left: 12px;
+    flex: 1; */
+    margin-bottom: 7px;
+    width: 280px;
+     align-items: center;
+    justify-content: center;
+     margin-top: 10px;
+    margin-left: 35px; 
+   
+
+}
+input:focus{
+    outline: none;
+} 

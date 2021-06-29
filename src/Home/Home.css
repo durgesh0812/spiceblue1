@@ -1,0 +1,14 @@
+.hov:hover{
+  background: orange;
+  border-radius: 20px;
+  padding: 5px 5px;
+
+}
+.content{
+    background-color: indigo;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
